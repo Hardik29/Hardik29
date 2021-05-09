@@ -34,7 +34,7 @@ Tools / Frameworks         | [![Bootstrap](https://img.shields.io/static/v1?flat
 
 <br />
 
-<details> 
- <!-- <li> <summary>💻 More Stats</summary><img alt="Sparsh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SparshKesari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> </li> -->
+
+ <!-- <li><details>  <summary>💻 More Stats</summary><img alt="Sparsh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SparshKesari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> </details></li> -->
    
-</details>
+
