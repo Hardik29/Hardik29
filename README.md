@@ -2,7 +2,7 @@
 
 <!---
 - 👋 Hi, I’m @Hardik29
-- 👀 I’m interested in FrontEnd_UI/UX
+- 👀 I’m interested in FrontEnd_UI/UX and web3.js
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on REact
 - 📫 How to reach me Singhhardik14@gmail.com
