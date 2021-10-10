@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
  [![Gmail Badge](https://img.shields.io/badge/-Hardik%20Singh-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:singhhardik14@gmail.com) &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Hardik%20Singh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-singh-36ba06195/)
 
 <ul>
-<li>🧐 I am currently learning about <strong>FrontEND</strong> && <strong>UI/UX</strong>.</li>
+<li>🧐 I am currently learning about <strong>FrontEND</strong> , <strong>UI/UX</strong>and web3.js .</li> 
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Hardik29">Github</a>.</li>
 <!-- <li>📝 I regulary write articles on <a href="">my blog</a>.</li> -->
 
